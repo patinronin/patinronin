@@ -1,5 +1,5 @@
 # 💫 About Me:
-⭐️ I'm currently working on Gentera as backend developer  💻<br>⭐️ I love machine learnig 🤖  and data science 🔬<br>    using python 🐍 as my main language <br>⭐️ I'm learning mobile development using flutter 📱<br><br>
+⭐️ I'm currently working on Gentera as backend developer  💻<br>⭐️ I love machine learning 🤖  and data science 🔬<br>    using python 🐍 as my main language <br>⭐️ I'm learning mobile development using flutter 📱<br><br>
 
 
 ## 🌐 Socials:
